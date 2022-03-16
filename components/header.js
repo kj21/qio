@@ -12,8 +12,8 @@ export default function Header() {
       <nav>
         <ul>
           <li>
-            <Link href="/dashboard">
-              <a>Dashboard</a>
+            <Link href="/events">
+              <a>Events</a>
             </Link>
           </li>
         </ul>
